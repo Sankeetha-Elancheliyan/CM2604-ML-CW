@@ -20,3 +20,6 @@ To run the notebook, you can open it in Google Colaboratory.
 Results
 
 The study compares two machine learning models based on K Nearest Neighbors (KNN) and Decision Trees to identify the optimal model for email spam classification. In addition, feature reduction using Principal Component Analysis (PCA) was performed to reduce the dimensionality of the dataset and increase the accuracy of the models. The AdaBoost classifier with Decision Tree as the base estimator achieved an accuracy of an accuracy of 94%, precision of 96%, recall of 89%, and an F1-score of 92%, while the XGBoost classifier with PCA achieved an accuracy of 91%, precision of 90%, recall of 87%, and an F1-score of 89%. The XAdaBoost model with PCA showed the best performance.
+
+![image](https://user-images.githubusercontent.com/119834420/227765131-7c762e23-2b79-4e58-9c5a-2f869e235de9.png)
+![image](https://user-images.githubusercontent.com/119834420/227765152-6e938621-f4be-4a73-9dea-496735244161.png)
